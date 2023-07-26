@@ -1,0 +1,6 @@
+{
+    "require": {
+        "ilovepdf/ilovepdf-php": "^1.2",
+        "phpmailer/phpmailer": "^6.7"
+    }
+}
